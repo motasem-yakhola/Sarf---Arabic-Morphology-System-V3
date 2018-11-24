@@ -48,6 +48,6 @@ This version of Sarf built based on Dr.Taha Zerrouki updates on original Sarf ap
 <ul>
 <li>Resolution issue message that prevent some users from using system solved</li>
 
-<li>There was a bug in generating gerunds for augmented roots in all previous versions</li><li>There was a bug in generating Exaggeration for roots from DB in all previous versions</li><li>There was a bug in generating Time&amp;Place nouns for roots from DB in all previous versions</li><li>There was a bug in generating Instrumental nouns for roots from DB in all previous versions</li></ul>
+<li>There was a bug in generating gerunds for augmented roots in all previous versions</li><li>There was a bug in generating Exaggeration for roots from DB in all previous versions</li><li>There was a bug in generating Adjectives for roots from DB in all previous versions</li><li>There was a bug in generating Time&amp;Place nouns for roots from DB in all previous versions</li><li>There was a bug in generating Instrumental nouns for roots from DB in all previous versions</li></ul>
 
 </article>
